@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%, height: 50%" />
-</div>  
-  
-
 ### <div align="center">I'm Swaroop, an experienced software delivery professional with expertise in full-stack web development, along with quality assurance and test automation</div>  
   
 
