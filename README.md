@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [OnEdge - An Online Education App](https://github.com/breadfan18/on-edge)  
   
 
-- 🌱 I’m currently learning Python and Django, Looking into AWS Cloud Certifications  
+- 🌱 I’m currently learning Redux, Looking into AWS Cloud Certifications  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
