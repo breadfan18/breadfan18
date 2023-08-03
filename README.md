@@ -1,7 +1,7 @@
 ### <div align="center">I'm Swaroop, an experienced software delivery professional with expertise in full-stack web development, along with quality assurance and test automation</div>  
   
 
-- 🔭 I’m currently working on [Credit Cards Tracker](https://github.com/breadfan18/on-edge). This is a full CRUD app that lets you manage credit card applications and loyalty rewards for you and your family members. 
+- 🔭 I’m currently working on [Credit Cards Tracker](https://github.com/breadfan18/cc-tracker-new-prod). This is a full CRUD app that lets you manage credit card applications and loyalty rewards for you and your family members. 
   
 
 - 🌱 I’m currently learning Redux, Looking into AWS Cloud Certifications  
